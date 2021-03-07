@@ -44,6 +44,10 @@ class _MyAppState extends State<MyApp> {
                 ),
               ),
               Text(
+                'Heart and Stroke Foundation has a wide variety of blood pressure management content available on their website on lifestyle change subjects such as healthy eating, physical activity and stress management.'
+                'One of the best stress management is to breathe as it slows down your heart rate and also dilate your blood vessels allowing a decrease in blood pressure.',
+              ),
+              Text(
                 'Systolic value (mmHg):',
                 style: TextStyle(
                   fontSize: 14,
